@@ -1,0 +1,22 @@
+.DS_Store
+node_modules/
+dist/
+test-results/
+playwright-report/
+coverage/
+.vercel/
+
+# Local QA captures and design scratch files
+.qa-shots*/
+artifacts/
+qa-*.png
+profile-*.png
+LUMA BG/
+LUMA design prep/
+LUMA_finals.md
+.uploads/
+
+# Environment files
+.env
+.env.*
+!.env.example
