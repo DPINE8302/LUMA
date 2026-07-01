@@ -20,3 +20,4 @@ LUMA_finals.md
 .env
 .env.*
 !.env.example
+.vercel
